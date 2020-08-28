@@ -4,10 +4,10 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
-            "Dotenv": "src/"
+            "Dotenv\\": "src/"
         },
         "psr-4": {
-            "Dotenv": "src/"
+            "Dotenv\\": "src/"
         }
     },
     "require": {
