@@ -1,0 +1,16 @@
+{
+    "name": "ci/dotenv",
+    "type": "library",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Dotenv": "src/"
+        },
+        "psr-4": {
+            "Dotenv": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
